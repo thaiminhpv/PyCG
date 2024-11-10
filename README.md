@@ -1,3 +1,5 @@
+# `pip install git+https://github.com/thaiminhpv/PyCG`
+
 # PyCG - Practical Python Call Graphs
 
 [![Linters](https://github.com/vitsalis/PyCG/actions/workflows/linters.yml/badge.svg)](https://github.com/vitsalis/PyCG/actions/workflows/linters.yml)
