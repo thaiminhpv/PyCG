@@ -45,7 +45,7 @@ def setup_package():
         python_requires=">=3.4",
         entry_points={
             "console_scripts": [
-                "pycg=pycg.__main__:main",
+                "pycg=pycg",
             ],
         },
         classifiers=[
